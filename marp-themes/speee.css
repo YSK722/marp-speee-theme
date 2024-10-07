@@ -15,6 +15,10 @@ svg[data-marp-fitting=svg] {
   max-height: 580px;
 }
 
+p strong {
+  font-weight: bold;
+}
+
 h1,
 h2,
 h3,
