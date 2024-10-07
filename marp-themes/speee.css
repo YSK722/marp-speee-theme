@@ -30,7 +30,7 @@ h4 strong,
 h5 strong,
 h6 strong,
 strong {
-  font-weight: 900;
+  font-weight: inherit;
 }
 
 h1 {
