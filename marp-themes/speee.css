@@ -15,8 +15,8 @@ svg[data-marp-fitting=svg] {
   max-height: 580px;
 }
 
-a strong {
-  font-weight: bold;
+.font_bold{
+  font-weight: black;
 }
 
 h1,
