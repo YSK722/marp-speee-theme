@@ -70,8 +70,8 @@ ol > li > p {
   margin: 0.6em 0 0 0;
 }
 /* Fix font weight */
-section strong {
-  font-weight: black;
+strong {
+  font-weight: 900;
 }
 
 code {
