@@ -30,8 +30,7 @@ h4 strong,
 h5 strong,
 h6 strong,
 strong {
-  /* font-weight: inherit; */
-  font-weight: black;
+  font-weight: inherit;
 }
 
 h1 {
