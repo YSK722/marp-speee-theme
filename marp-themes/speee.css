@@ -69,10 +69,10 @@ ul > li > p,
 ol > li > p {
   margin: 0.6em 0 0 0;
 }
-/* Fix font weight */
+/* Fix font weight
 strong {
   font-weight: black;
-}
+} */
 
 code {
   display: inline-block;
