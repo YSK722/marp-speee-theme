@@ -9,8 +9,7 @@
  * @size 4:3 960px 720px
  * @size 4K 3840px 2160px
  */
-/*@import url("https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans+JP&family=Roboto+Mono&display=swap");*/
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans+JP&family=Roboto+Mono&display=swap");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/tomorrow-night-blue.min.css");
 svg[data-marp-fitting=svg] {
   max-height: 580px;
@@ -30,7 +29,8 @@ h3 strong,
 h4 strong,
 h5 strong,
 h6 strong {
-  font-weight: inherit;
+  /* font-weight: inherit; */
+  font-weight: bold;
 }
 
 h1 {
