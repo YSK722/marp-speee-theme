@@ -15,10 +15,6 @@ svg[data-marp-fitting=svg] {
   max-height: 580px;
 }
 
-body strong {
-  font-weight: black;
-}
-
 h1,
 h2,
 h3,
@@ -215,7 +211,8 @@ section h2 strong,
 section h3 strong,
 section h4 strong,
 section h5 strong,
-section h6 strong {
+section h6 strong
+body strong {
   color: var(--color-highlight);
 }
 section pre > code {
