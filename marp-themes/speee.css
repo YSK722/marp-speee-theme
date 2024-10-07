@@ -213,6 +213,7 @@ section h4 strong,
 section h5 strong,
 section h6 strong,
 section strong {
+  font-weight: black;
   color: var(--color-highlight);
 }
 section pre > code {
