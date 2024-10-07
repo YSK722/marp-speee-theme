@@ -71,8 +71,8 @@ ol > li > p {
 }
 
 /* Fix bold */
-bold {
-  font-weight: bold;
+.bold {
+  font-weight: black;
 }
 
 code {
